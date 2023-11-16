@@ -22,7 +22,7 @@ st.exception("NameError('no está definido')")
 st.header("Obtener información de ayuda de Python")
 st.help(range)
 st.header("Widgets:")
-st.subheader("Checkbox
+st.subheader("Checkbox")
              
 """#Checkbox
 #st.write('Hello world! Jimena :sunglasses:')
