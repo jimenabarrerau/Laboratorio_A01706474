@@ -3,7 +3,6 @@ import datetime
 import time
 import pandas as pd
 import streamlit as st
-import PIL import Image
 
 """Generación de la webapp con streamlit"""
 
